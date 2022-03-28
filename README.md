@@ -1,7 +1,7 @@
 # RedditBrowser
  
 Task
-Develop an application that can search and show Reddit and their posts - a simple Reddit
+- Develop an application that can search and show Reddit and their posts - a simple Reddit
 client.
 
 Specification
